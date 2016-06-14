@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "authors": [
+    "Harold Coronado"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/deps",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
